@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on CLI and Backend projects written on Rust<br>🌱 I’m currently learning Rust and DevOps<br>💬 Ask me about UI, Mobile, Backend and Architecture<br>⚡ Fun fact, I started programming because when I was a kid, I saw a TV episode of The Powerpuff Girls where bubble programs a server 😭
+🔭 I’m currently working on CLI and Backend projects written on Rust<br>🌱 I’m currently learning Rust and DevOps<br>💬 Ask me about UI, Mobile, Backend and Architecture<br>⚡ Fun fact, I started programming because when I was a kid, I saw a TV episode of The Powerpuff Girls where Bubbles programs a server 😭
 
 
 ## 🌐 Socials:
